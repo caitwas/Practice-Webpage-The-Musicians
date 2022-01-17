@@ -19,3 +19,9 @@ Notes Guitar Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source
 Guitar Player Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851426">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1851426">Pixabay</a>
 
 music-notes: <a href="https://www.flaticon.com/free-icons/music" title="music icons">Music icons created by Freepik - Flaticon</a>
+
+Mug Image by <a href="https://pixabay.com/users/mdsirajulislam-18484966/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5794604">Md Sirajul Islam</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5794604">Pixabay</a>
+
+blank T Image by <a href="https://pixabay.com/users/nattyjeff-1836617/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1886001">jeff burroughs</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1886001">Pixabay</a>
+
+poster mockup Image by <a href="https://pixabay.com/users/bumiputra-731298/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2853832">BUMIPUTRA</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2853832">Pixabay</a>
