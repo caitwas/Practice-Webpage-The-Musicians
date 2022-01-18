@@ -63,7 +63,6 @@ html, body{
 
 .logo-large {
     font-size: 4em;
-    /* margin-top: 20px; */
 }
 
 .content-section{
@@ -117,3 +116,59 @@ html, body{
     height: 30px;
     ***I did this during the html lessons so I'm just gonna comment this out***
 } */
+
+.btn {
+    text-align: center;
+    vertical-align: middle;
+    padding: .5em;
+    cursor: pointer;
+}
+
+.btn-header{
+    margin: .5em 15% 2em 15%; 
+    color: rgb(202, 202, 181);
+    border: 2px solid rgb(80, 198, 202);
+    background-color: rgb(21, 151, 155);
+    border-radius: 0;
+    font-size: 1em;
+    font-weight: bold;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.btn-header:hover{
+    background-color: rgb(80, 198, 202);
+    color: rgb(88, 88, 41);
+}
+
+.btn-play{
+    display: block;
+    margin: 0 auto;
+    font-size: larger;
+    border-radius: 50%;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+}
+
+.tour-row{
+    border-bottom: 1px solid black;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+.tour-row:last-child{
+    border-bottom: none;
+}
+
+.tour-item{
+    display: inline-block;
+    padding-right: .5em;
+}
+
+.tour-date{
+    color: rgb(31, 31, 31);
+    font-weight: bold;
+    width: 10%;
+
+}
