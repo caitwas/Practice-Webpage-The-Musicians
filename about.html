@@ -6,32 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Musicians | About</title>
     <meta name="description" contents="This is a description of out website. Yay!"></head>
+    <link rel="stylesheet" href="style.css">
 <body>  
     <!-- header element tells browser this is out header -->
-    <header>
-        <nav>
+    <header class="main-header">
+        <nav class="nav main-nav">
             <ul>
                 <li><a href="index.html">HOME</a></li> 
                 <li><a href="store.html">STORE</a></li> 
                 <li><a href="about.html">ABOUT</a></li> 
             </ul>
         </nav>
-        <hr>
         <!-- hr makes a horizontal line -->
-        <h1>The Musicians</h1>
+        <h1 class="logo logo-large" >The Musicians</h1>
     </header>
-    <section>
-        <h2>ABOUT</h2>
+    <section class="content-section container">
+        <h2 class="section-header">About</h2>
         <P>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur semper ex et augue commodo, eu consectetur ligula ultricies. Etiam facilisis egestas leo, at euismod leo semper vel. Nunc pharetra tincidunt massa in fringilla. Donec nec faucibus metus, non facilisis ipsum. Quisque mollis quis ligula nec tincidunt. Vivamus rhoncus et odio quis porttitor. Cras convallis, risus in finibus lobortis, elit dui congue sem, molestie rhoncus lectus elit dapibus ligula. Pellentesque venenatis sapien tortor, vitae bibendum nisl pretium eu.
         </P>
         <p>Integer tincidunt maximus ultricies. Sed a ante semper, dignissim ipsum at, accumsan enim. Etiam lacinia rhoncus velit in luctus. Nullam volutpat, metus quis semper sagittis, sapien nunc pretium velit, vitae pretium elit nunc in velit. Nunc volutpat ullamcorper tortor, ut iaculis lacus iaculis vel. Aenean rhoncus iaculis rhoncus. Curabitur mi orci, cursus sit amet ultrices eget, vestibulum ac arcu. Aenean ultrices dignissim nisl vitae porta. Donec non tincidunt sapien. Duis mollis auctor enim eget viverra.</p>
-        <img src="images/Guitar Player.jpg" alt="Man playing a guitar" width="500">
+        <img src="images/Guitar Player.jpg" alt="Man playing a guitar" width="500" class="abt-img">
         <p>In et ex lectus. Maecenas ac mauris ut elit placerat suscipit. Sed porttitor mauris ut ante malesuada, nec ullamcorper odio imperdiet. Fusce in efficitur leo, sit amet facilisis nisi. Fusce euismod lorem at arcu accumsan, id pulvinar odio pellentesque. Nunc fermentum dolor nec ex posuere, in condimentum tellus interdum. Ut quis magna non tellus aliquam posuere id vitae nunc. Sed sed sagittis ipsum, et ornare diam. Nullam in metus nibh. Donec imperdiet, nulla ornare mollis placerat, felis nisi tincidunt purus, nec vulputate ante dui ac ex. Curabitur felis justo, ultrices id arcu ac, porta suscipit odio. Vivamus elit ipsum, mattis et lorem ut, auctor blandit nibh. Curabitur quis est tincidunt, luctus mauris eget, porta mauris. Nam non maximus magna. Suspendisse cursus risus at tortor porttitor, ut elementum justo fringilla.</p>
     </section>
-    <footer>
-        <h3>The Musicians</h3>
-        <ul>
+    <footer class="main-footer">
+        <div class="container main-footer-container">
+        <h3 class="logo">The Musicians</h3>
+        <ul class="nav footer-nav">
             <li>
                 <a href="https://www.youtube.com/" target="_blank">
                     <img src="images/YouTube Logo.png" alt="Link to YouTube" width="30" >
@@ -48,6 +49,7 @@
                 </a>
             </li>
         </ul>
+    </div>
     </footer>
 </body>
 </html>
